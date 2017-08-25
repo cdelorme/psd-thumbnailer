@@ -1,0 +1,2 @@
+#!/bin/bash -e
+convert "${1}[0]" -resize "$3>" "$2"
