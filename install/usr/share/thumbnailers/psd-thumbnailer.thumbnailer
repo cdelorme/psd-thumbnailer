@@ -1,4 +1,4 @@
 [Thumbnailer Entry]
 TryExec=/usr/local/bin/psd-thumbnailer
 Exec=/usr/local/bin/psd-thumbnailer %i %o %s
-MimeType=image/vnd.adobe.photoshop;
+MimeType=image/psd;image/psb;
